@@ -7,9 +7,9 @@ let handler = async(m, { conn, text, participants }) => {
                 teks += `\nbukan elyas`
                 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 }
-handler.help = ['tagall <pesan>']
+handler.help = ['t <pesan>']
 handler.tags = ['group']
-handler.command = /^(tagall)$/i
+handler.command = /^(t)$/i
 
 handler.group = true
 handler.admin = true
