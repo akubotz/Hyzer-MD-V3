@@ -1,10 +1,10 @@
 //=============『 Utama 』================== //
-global.owner = ['6285232604817','6285771052661','6285232604817'] 
+global.owner = ['6285232604817'] 
 global.mods = ['6285232604817'] 
 global.prems = ['6285771052661'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'KokoRey'
+global.nameowner = 'KokoRey Official'
 global.numberowner = '6285232604817'
 global.instagram = 'https://instagram.com/callme_rey1921'
 global.github = 'https://github.com/akubotz'
@@ -24,8 +24,8 @@ global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'KoKo-𝙼𝙳'
-global.watermark = 'wm'
-global.wm2 = '「 KoKoRey-𝙼𝙳 あ⁩ 」'
+global.watermark = wm
+global.wm2 = '                「 KoKoRey-𝙼𝙳 あ⁩ 」'
 global.wm3 = '⫹⫺ KoKoRey-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
